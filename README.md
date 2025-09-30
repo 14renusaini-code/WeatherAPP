@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # WeatherApp
 
 A Python CLI and Jupyter-based application to fetch, analyze, and visualize weather data using the OpenWeatherMap API.
