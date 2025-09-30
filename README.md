@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # WeatherApp
 
@@ -60,3 +61,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## License
 This project is licensed under the MIT License.
+=======
+# weather-app
+>>>>>>> 72c845810d6a452df2b126f218eed11d8a2d177c
